@@ -9,7 +9,7 @@ This repository shows you how to build an LLM using Snowflake's API.
 
 1. Clone this repo. 
 
-2. Sign up for an account [here](https://signup.snowflake.com/). Activate your account and you should see a welcome screen. 
+2. Sign up for an account [here](https://signup.snowflake.com/?utm_campaign=cortex-agent-api-demo). Activate your account and you should see a welcome screen. 
 
 3. Go to `Projects` -> `Worksheets` -> Click `Create SQL Worksheet`
 
