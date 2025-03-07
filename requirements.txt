@@ -2,4 +2,3 @@ streamlit
 snowflake-connector-python
 sseclient
 requests
-json

@@ -11,7 +11,7 @@ ACCOUNT = st.secrets["snowflake"]["account"]
 USER =st.secrets["snowflake"]["user"]
 PASSWORD = st.secrets["snowflake"]["password"]
 ROLE = st.secrets["snowflake"]["role"]
-WAREHOUSE= st.secrets["snowflake"]["warehouse"]
+WAREHOUSE= "SALES_INTELLIGENCE_WH"
 
 # variables shared across pages
 
