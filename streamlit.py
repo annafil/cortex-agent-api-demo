@@ -99,7 +99,7 @@ def agent_api_call(query: str, limit: int = 10):
                         text = parsed['delta']['content'][1]['tool_results']['content'][0]['json']['text']
                         sql = parsed['delta']['content'][1]['tool_results']['content'][0]['json']['sql']
                         yield text
-                        yield "\n\n```" + sql + "" 
+                        yield "\n\n `" + sql + "`" 
 
                     else: 
                         text = parsed
