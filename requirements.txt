@@ -2,3 +2,4 @@ streamlit
 snowflake-connector-python
 sseclient
 requests
+pyarrow<19.0.0

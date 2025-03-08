@@ -36,6 +36,6 @@ host = "[Account/Server URL]"
 
 9. Run `pip install -r requirements.txt` to make sure you have all the dependencies working.
 
-10. Run `streamlit run streamlit.app` and you should see a chat assistant ready to work with you! Try a few prompts:
+10. Run `streamlit run streamlit.py` and you should see a chat assistant ready to work with you! Try a few prompts:
 - "What was the total sales volume last year?" should output a SQL query and an interpretation of your request.
 - "Summarize the call with TechCorp Inc" should give you a summary of the call transcript. 
